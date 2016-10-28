@@ -1,0 +1,25 @@
+/* Base */
+body {
+  text-align: center;
+  border-top: 3px solid #00cfd9;
+  padding-top: 30px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.fa {
+  background-color: #373a3c;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  line-height: 40px;
+  color: #fff;
+  font-size: 25px;
+  margin: 25px;
+}
+.fa:hover {
+  text-decoration: none;
+  color: #fff;
+}
